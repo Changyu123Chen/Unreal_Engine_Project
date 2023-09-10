@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Levels/Thumbnails/SimBlank_Thumbnail.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Levels/SimBlank.umap",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Blueprints/BP_SimGameMode.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Blueprints/BP_SimPlayerController.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Blueprints/UMG_Profiling.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Materials/MI_NoiserClouds.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Materials/T_Stars.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Materials/M_SkyDome.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Materials/MI_StarSkySphere.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Materials/SkySphere_Equirectangular.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/SimBlank/Blueprints/BP_SimFloatingPawn.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Moon_Earth.umap",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Earth/2k_earth_clouds.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Earth/2k_earth_daymap.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Earth/2k_earth_nightmap.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Earth/2k_earth_normal_map.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Earth/2k_earth_specular_map.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Moon/2k_moon.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Stars/2k_stars_milky_way.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Earth/M_Earth.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Earth/M_Cloud.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Earth/M_Atmosphere.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Moon/M_Moon.uasset",
+				"/Users/changyuchen/Desktop/Planet/Content/Planet/Stars/M_Star.uasset"
+			]
+		}
+	]
+}
